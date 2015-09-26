@@ -1,3 +1,15 @@
+/**
+ * @file    main.cpp
+ * @author  Patrick Flick <patrick.flick@gmail.com>
+ * @brief   Implements the main function for the 'jacobi' executable.
+ *
+ * Copyright (c) 2014 Georgia Institute of Technology. All Rights Reserved.
+ */
+
+/*********************************************************************
+ *                  !!  DO NOT CHANGE THIS FILE  !!                  *
+ *********************************************************************/
+
 #ifndef IO_H
 #define IO_H
 #include <fstream>
